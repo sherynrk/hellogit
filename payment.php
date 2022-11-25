@@ -1,1 +1,1 @@
-ini payment qrcode
+ini payment qrcode ya bambang
